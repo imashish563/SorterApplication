@@ -1,0 +1,16 @@
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp
+
+logging.level.org.springframework.web: DEBUG
+
+server:
+  port: 8098
+  
+sorterApp:
+  userName: TCS
+  password: tcs123
+  
+  
