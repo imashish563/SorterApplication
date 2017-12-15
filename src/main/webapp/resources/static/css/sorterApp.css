@@ -1,0 +1,9 @@
+#errorModal .modal-body {
+	text-align: center;
+	color: red;
+	font-weight: bold;
+}
+
+#errorModal .modal-footer {
+	text-align: center;
+}
